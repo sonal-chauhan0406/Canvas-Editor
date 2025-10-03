@@ -15,7 +15,7 @@ Canvas Editor is a dynamic and intuitive Android application built with **Jetpac
 
 ## 🎥 Demo Video
 
-👉 [Watch the walkthrough demo here](#)
+👉https://drive.google.com/file/d/1bN0AC2mQ8zTyBnCWH0fqU3hCtNUHuqSU/view?usp=drivesdk
 
 
 
