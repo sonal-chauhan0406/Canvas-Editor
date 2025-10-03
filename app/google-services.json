@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "633204303017",
+    "project_id": "celebrareassignment-0406",
+    "storage_bucket": "celebrareassignment-0406.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633204303017:android:7b3441d3ce49d2ffcfb5b8",
+        "android_client_info": {
+          "package_name": "com.example.celebrare_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633204303017-uhj33cr2f6900idoep07rlohnkvkqpqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.celebrare_assignment",
+            "certificate_hash": "7720dfa770649cf96504bf4aa6d38822f1614a24"
+          }
+        },
+        {
+          "client_id": "633204303017-357p3dikh29d4c1a3v016slbrljc0put.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoA-ixif5UHfnaFXZjjPMKEZSaPvZUnRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633204303017-357p3dikh29d4c1a3v016slbrljc0put.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
